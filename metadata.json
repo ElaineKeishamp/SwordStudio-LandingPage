@@ -1,0 +1,6 @@
+{
+  "name": "Sword Studio",
+  "description": "Tajamkan Identitas, Perkuat Legasi. Premium brand design studio presenting luxury and meticulous identity design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
